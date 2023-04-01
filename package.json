@@ -1,0 +1,19 @@
+{
+  "name": "discord-linked-roles",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=16"
+  },
+  "description": "discord-linked-roles",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "147dev <ch4n4o2+work@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
